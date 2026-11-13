@@ -3,13 +3,13 @@
 ## Datos del documento
 
 - **Proyecto:** Biblioteca Virtual ST
-- **Elaborado por:** Santiago Cárdenas Mejía
-- **Docente:** William Fabian Medina
+- **Elaborado por:** 
+- **Docente:**
 - **Año:** 2026
 
 ## 1. Descripción del proyecto
 
-Biblioteca Virtual ST es una aplicación web enfocada en la administración, control y gestión integral de recursos bibliográficos dirigida a instituciones educativas. Busca optimizar y centralizar los procesos de registro de libros, autores, editoriales, usuarios y categorías, así como la trazabilidad de préstamos y devoluciones.
+Biblioteca Virtual ST es una aplicación local enfocada en la administración, control y gestión integral de recursos bibliográficos dirigida a instituciones educativas. Busca optimizar y centralizar los procesos de registro de libros, autores, editoriales, usuarios y categorías, así como la trazabilidad de préstamos y devoluciones.
 
 La solución pretende agilizar la operativa diaria de la institución y garantizar un manejo seguro, estructurado y confidencial de la información bibliográfica.
 
