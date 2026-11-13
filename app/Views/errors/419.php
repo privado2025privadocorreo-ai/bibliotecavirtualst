@@ -1,0 +1,1 @@
+<section class="error-state"><p class="eyebrow">Seguridad</p><h1>Formulario vencido</h1><p>Recarga la página y vuelve a enviar el formulario.</p><a class="button button--quiet" href="<?= \App\Core\Security::escape(\App\Core\Security::url('dashboard')) ?>">Volver al inicio</a></section>

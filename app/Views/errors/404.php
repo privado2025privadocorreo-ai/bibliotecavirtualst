@@ -1,0 +1,1 @@
+<section class="error-state"><p class="eyebrow">No encontrado</p><h1>Página no disponible</h1><p>El recurso solicitado no existe o ya fue retirado.</p><a class="button button--quiet" href="<?= \App\Core\Security::escape(\App\Core\Security::url('dashboard')) ?>">Volver al inicio</a></section>

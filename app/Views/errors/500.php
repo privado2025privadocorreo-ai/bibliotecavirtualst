@@ -1,0 +1,1 @@
+<section class="error-state"><p class="eyebrow">Sistema</p><h1>No se pudo completar la solicitud</h1><p>Revisa la configuración y los registros del servidor antes de volver a intentarlo.</p><a class="button button--quiet" href="<?= \App\Core\Security::escape(\App\Core\Security::url('dashboard')) ?>">Volver al inicio</a></section>

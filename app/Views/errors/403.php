@@ -1,0 +1,1 @@
+<section class="error-state"><p class="eyebrow">Permisos</p><h1>Acceso denegado</h1><p>Tu rol no tiene permiso para ver esta sección.</p><a class="button button--quiet" href="<?= \App\Core\Security::escape(\App\Core\Security::url('dashboard')) ?>">Volver al inicio</a></section>

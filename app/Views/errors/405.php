@@ -1,0 +1,1 @@
+<section class="error-state"><p class="eyebrow">Solicitud no válida</p><h1>Método no permitido</h1><p>Usa el formulario de la aplicación para realizar esta acción.</p><a class="button button--quiet" href="<?= \App\Core\Security::escape(\App\Core\Security::url('dashboard')) ?>">Volver al inicio</a></section>
